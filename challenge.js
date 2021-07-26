@@ -33,7 +33,7 @@ pBatu.addEventListener('click', function(){
 	// console.log('comp :' + pilihanKomputer);
 	// console.log('player :' + pilihanPlayer);
 	// console.log('hasil :' + hasil);
-	parentBatu.classList.toggle('active');
+	// parentBatu.classList.toggle('active');
 
 
 
